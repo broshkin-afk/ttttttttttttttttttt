@@ -1,3 +1,3 @@
 ﻿# ttttttttttttttttttt
-![Иллюстрация к проекту]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/broshkin-afk/ttttttttttttttttttt/blob/main/Screenshot_1.jpg))
-https://github.com/broshkin-afk/ttttttttttttttttttt/blob/main/Screenshot_1.jpg
+![Иллюстрация к проекту](https://github.com/broshkin-afk/ttttttttttttttttttt/blob/main/Screenshot_1.jpg)
+
